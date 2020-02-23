@@ -3,9 +3,6 @@
   "version": "1.0.0",
   "description": "这是一本由gitbook自动化构建的电子书",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 0"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/killallfive/ebook.git"
